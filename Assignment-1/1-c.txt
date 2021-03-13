@@ -1,0 +1,7 @@
+- Reset/ revert:  $ git revert HEAD
+
+- Stash:  $ git stash
+
+- Rebasing: $ git rebase branch_name
+
+- Git log, status & reflog: $ git reflog
